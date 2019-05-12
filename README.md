@@ -1,0 +1,1 @@
+This is Mate's first git project!
